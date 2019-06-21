@@ -1,0 +1,1 @@
+QAmatic - Assets
